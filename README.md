@@ -1,10 +1,10 @@
 <div align="center">
-░█████╗░███╗░░░███╗██╗██████╗░░█████╗░░░███╗░░
-██╔══██╗████╗░████║██║██╔══██╗██╔══██╗░████║░░
-███████║██╔████╔██║██║██████╔╝██║░░██║██╔██║░░
-██╔══██║██║╚██╔╝██║██║██╔══██╗██║░░██║╚═╝██║░░
-██║░░██║██║░╚═╝░██║██║██║░░██║╚█████╔╝███████╗
-╚═╝░░╚═╝╚═╝░░░░░╚═╝╚═╝╚═╝░░╚═╝░╚════╝░╚══════╝
+░█████╗░███╗░░░███╗██╗██████╗░░░░█████╗░░░███╗░░
+██╔══██╗████╗░████║██║██╔══██╗░░██╔══██╗░████║░░
+███████║██╔████╔██║██║██████╔╝░░██║░░██║██╔██║░░
+██╔══██║██║╚██╔╝██║██║██╔══██╗░░██║░░██║╚═╝██║░░
+██║░░██║██║░╚═╝░██║██║██║░░██║░░╚█████╔╝███████╗
+╚═╝░░╚═╝╚═╝░░░░░╚═╝╚═╝╚═╝░░╚═╝░░░╚════╝░╚══════╝
 <hr />
 </div>
 <div id="badges" align="center">
@@ -22,7 +22,7 @@
 </div>
 
 ## About me
-AmirMohammad Babaei, Bsc student of Computer Engineering at AmirKabir University of Technology.
+AmirMohammad Babaei, Bsc student of Computer Engineering at AmirKabir University of Technology and Machine Learning Engineer at Asr Gooyesh Pardaz Company.
 
 ## Interests
 - Machine Learning
@@ -32,22 +32,33 @@ AmirMohammad Babaei, Bsc student of Computer Engineering at AmirKabir University
 - Optimization
 
 ## Programming Languages, Technologies & Tools
-<div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch" alt="Pytorch" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" alt="Tensorflow" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-plain-wordmark.svg"  title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
+  <br />
+  <br />
+  
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex" alt="Latex" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-plain-wordmark.svg"  title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <br />
+  <br />
+  
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java"  alt="Java" width="40" height="40"/>&nbsp;
+  <br />
+  <br />
+  
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
 ## Some Stats about my github activities
