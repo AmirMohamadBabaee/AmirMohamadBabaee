@@ -29,6 +29,7 @@ AmirMohammad Babaei, Bsc student of Computer Engineering at AmirKabir University
 - Deep Learning
 - Computer Vision
 - Natural Language Processing
+- Graph Neural Networks
 - Optimization
 
 ## Programming Languages, Technologies & Tools
