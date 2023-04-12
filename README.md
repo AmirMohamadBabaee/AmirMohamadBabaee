@@ -22,7 +22,7 @@
 </div>
 
 ## About me
-AmirMohammad Babaei, Bsc student of Computer Engineering at AmirKabir University of Technology and Machine Learning Engineer at Asr Gooyesh Pardaz Company.
+AmirMohammad Babaei, Bsc student of Computer Engineering at AmirKabir University of Technology.
 
 ## Interests
 - Machine Learning
