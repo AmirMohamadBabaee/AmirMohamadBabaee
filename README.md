@@ -22,7 +22,11 @@
 </div>
 
 ## About me
-AmirMohammad Babaei, Bsc student of Computer Engineering at AmirKabir University of Technology.
+👋 Hi there! I'm Amir Mohammad Babaei, currently immersed in the world of computer engineering through a master's program at Sharif University of Technology. With a relentless curiosity, I delve into the realms of computer vision and graph deep learning, constantly seeking to unravel their intricacies. My journey has also led me to explore the captivating domains of natural language processing and speech processing.
+
+🔍 Fascinated by the dynamic landscape of deep learning, I thrive on embracing emerging methodologies and staying at the forefront of technological advancements. As an avid learner and enthusiast of AI technologies, I'm driven by the belief that every line of code and every experiment holds the potential to shape the future.
+
+💡 Let's connect and embark on this exhilarating journey of innovation together!
 
 ## Interests
 - Machine Learning
