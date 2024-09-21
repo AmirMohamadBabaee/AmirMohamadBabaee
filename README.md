@@ -15,26 +15,36 @@
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <a href="https://twitter.com/amir_under_dev">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/X-blue?style=for-the-badge&logo=X&logoColor=white" alt="X Badge"/>
   </a>
   <br />
   <img src="https://komarev.com/ghpvc/?username=AmirMohamadBabaee" alt=""/>
 </div>
 
 ## About me
-👋 Hi there! I'm Amir Mohammad Babaei, currently immersed in the world of computer engineering through a master's program at Sharif University of Technology. With a relentless curiosity, I delve into the realms of computer vision and graph deep learning, constantly seeking to unravel their intricacies. My journey has also led me to explore the captivating domains of natural language processing and speech processing.
+👋 Hi, I'm Amir Mohammad Babaei, currently pursuing a Master's degree in Computer Engineering at Sharif University of Technology. **I am actively seeking a PhD position for Fall 2025**, where I aim to deepen my research in computer vision and deep learning.
 
-🔍 Fascinated by the dynamic landscape of deep learning, I thrive on embracing emerging methodologies and staying at the forefront of technological advancements. As an avid learner and enthusiast of AI technologies, I'm driven by the belief that every line of code and every experiment holds the potential to shape the future.
+🔍 My primary research interests lie in image and video super-resolution, as well as image restoration. In addition, I am fascinated by various other areas within computer vision, including segmentation, image inpainting, and generative models. I have also developed skills and experience in graph neural networks and natural language processing.
 
-💡 Let's connect and embark on this exhilarating journey of innovation together!
+💡 I am passionate about leveraging cutting-edge technologies to push the boundaries of what is possible. My curiosity drives me to explore innovative solutions and continuously refine and enhance AI systems. I am eager to collaborate with like-minded researchers and contribute to advancements that shape the future of artificial intelligence.
 
-## Interests
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Natural Language Processing
-- Graph Neural Networks
-- Optimization
+📫 If my research interests align with your work, I'd love to connect and explore potential opportunities!
+
+## Research Interests
+<div align="center">
+  <table>
+    <tr>
+      <td>Image & Video Super-Resolution</td>
+      <td>Image Restoration</td>
+      <td>Computer Vision</td>
+    </tr>
+    <tr>
+      <td>Graph Neural Networks</td>
+      <td>Optimization</td>
+      <td>Natural Language Processing</td>
+    </tr>
+  </table>
+</div>
 
 ## Programming Languages, Technologies & Tools
 <div align="center">
@@ -66,7 +76,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
-## Some Stats about my github activities
+## Coding Stats
 <div align="center">
   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AmirMohamadBabaee&theme=highcontrast&hide_border=false"/>
 </div>
