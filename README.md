@@ -22,7 +22,7 @@
 </div>
 
 ## About me
-👋 Hi, I'm Amir Mohammad Babaei, currently pursuing a Master's degree in Computer Engineering at Sharif University of Technology. **I am actively seeking a PhD position for Fall 2025**, where I aim to deepen my research in computer vision and deep learning.
+👋 Hi, I'm Amir Mohammad Babaei, currently pursuing a Master's degree in Computer Engineering at Sharif University of Technology.
 
 🔍 My primary research interests lie in image and video super-resolution, as well as image restoration. In addition, I am fascinated by various other areas within computer vision, including segmentation, image inpainting, and generative models. I have also developed skills and experience in graph neural networks and natural language processing.
 
